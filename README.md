@@ -1,2 +1,2 @@
 # Drugs_EDA_Classification
-This project contains basic EDA and presents the impact of performing soft optimization on ML Classification models (XGBoost vs Random Forest vs SVM vs GPC) accuracy.
+This project contains basic EDA and presents the impact of performing soft optimization on ML Classification models (XGBoost vs Random Forest vs SVM vs GPC) accuracy. The suitable drug type has been predicted using the age, sex, blood pressure, cholesterol and Na to K value of different subjects. Data selected from Kaggle datasets: https://www.kaggle.com/datasets/prathamtripathi/drug-classification
